@@ -38,7 +38,7 @@
                         </div>
                         <div class="ak-height-45 ak-height-lg-30"></div>
                         <div data-swiper-parallax="300">
-                            <a target="_blank" href="https://api.whatsapp.com/send/?phone=584247329670&text=Hola+Srs.+de+TIENDAS+KARLA+quisiera+informacion+sobre%3A+&type=phone_number&app_absent=0" class="common-btn">
+                            <a target="_blank" href="https://api.whatsapp.com/send/?phone=584266770228&text=Hola+Srs.+de+Haticos+quisiera+informacion+sobre%3A+&type=phone_number&app_absent=0" class="common-btn">
                                 CONTACTANOS.
                             </a>
                         </div>

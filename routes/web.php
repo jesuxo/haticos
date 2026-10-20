@@ -28,7 +28,7 @@ use Illuminate\Support\Facades\Route;
 
 /* Auth Route::get('signup', 'App\Http\Controllers\Auth\RegisterController@signup')->name('signup');*/
 
-Route::get('signuptiendaskarla', 'App\Http\Controllers\Auth\RegisterController@signup')->name('signup');
+Route::get('signuptiendasgrupohaticos', 'App\Http\Controllers\Auth\RegisterController@signup')->name('signup');
 
 Route::get('/panelclientes',  [App\Http\Controllers\SiteController::class, 'panelclientes']  )->name('panelclientes');
 

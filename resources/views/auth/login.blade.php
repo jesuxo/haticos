@@ -158,7 +158,7 @@
 
         // Fill demo credentials
         function fillDemoCredentials() {
-            document.getElementById('email').value = 'demo@tiendaskarla.com.ve';
+            document.getElementById('email').value = 'demo@grupohaticos.com';
             document.getElementById('password').value = 'Demo123';
 
             // Animación simple

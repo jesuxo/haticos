@@ -932,7 +932,6 @@ class HomeController extends Controller
 
     public function index(Request $request)
     {
-      // dd(bcrypt('Tiendaskarla25'));
         $tasascambiadas = session('tasascambiadas');
 
         Session::put('lang', 'sp');

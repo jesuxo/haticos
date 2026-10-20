@@ -10,18 +10,18 @@
     <link rel="shortcut icon" href="{{ URL::asset('build/images/favicon.ico') }}">
 
 
-    <title>https://www.tiendaskarla.com.ve - SISDATO</title>
+    <title>https://www.grupohaticos.com - SISDATO</title>
     <meta name="description" content="GRUPO HATICOS">
-    <link rel="canonical" href="https://www.tiendaskarla.com.ve">
-    <meta property="og:title" content="https://www.tiendaskarla.com.ve - SISDATO">
+    <link rel="canonical" href="https://www.grupohaticos.com">
+    <meta property="og:title" content="https://www.grupohaticos.com - SISDATO">
     <meta property="og:description" content=" GRUPO HATICOS">
     <meta property="og:type" content="WebPage">
-    <meta property="og:image" content="https://tiendaskarla.com.ve/build/images/logo.png">
-    <meta property="og:url" content="https://tiendaskarla.com.ve">
+    <meta property="og:image" content="https://grupohaticos.com/build/images/logo.png">
+    <meta property="og:url" content="https://grupohaticos.com">
 
-    <meta name="twitter:title" content="https://www.tiendaskarla.com.ve - SISDATO ">
+    <meta name="twitter:title" content="https://www.grupohaticos.com - SISDATO ">
     <meta name="twitter:description" content=" GRUPO HATICOS ">
-    <meta name="twitter:site" content="@tiendaskarlave">
+    <meta name="twitter:site" content="@grupohaticos">
     <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"GRUPO HATICOS","description":" "}</script>
 
     <!-- head css -->

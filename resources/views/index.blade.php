@@ -341,7 +341,7 @@
                     <a href="/reporte/instpagodolares" class="quick-action-btn">
                         <i class="ri-file-chart-line"></i> Rep InstPago USD
                     </a>
- 
+
                 </div>
             </div>
         </div>

@@ -13,7 +13,7 @@
                     <h6><span class="text-muted fw-normal">Direcci&oacute;n: &nbsp;</span> <span
                             id="legal-register-no">La Fria Edo Tachira </span></h6>
                     <h6><span class="text-muted fw-normal">Email: &nbsp;</span> <span
-                            id="email">email@tiendaskarla.com</span></h6>
+                            id="email">email@grupohaticos.com</span></h6>
                 </div>
             </div>
         </div>

@@ -22,16 +22,16 @@
 
         <title>GRUPO HATICOS</title>
         <meta name="description" content="">
-        <link rel="canonical" href="https://www.tiendaskarla.com.ve">
+        <link rel="canonical" href="https://www.grupohaticos.com">
         <meta property="og:title" content="GRUPO HATICOS">
         <meta property="og:description" content="">
         <meta property="og:type" content="WebPage">
-        <meta property="og:image" content="http://tiendaskarla.com.ve/img/logo.png">
-        <meta property="og:url" content="http://tiendaskarla.com.ve">
+        <meta property="og:image" content="http://grupohaticos.com/img/logo.png">
+        <meta property="og:url" content="http://grupohaticos.com">
 
         <meta name="twitter:title" content="GRUPO HATICOS  - ">
         <meta name="twitter:description" content="">
-        <meta name="twitter:site" content="@tiendaskarlave">
+        <meta name="twitter:site" content="@grupohaticos">
         <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":" GRUPO HATICOS ","description":"VENTA DE ZAPATOS DEPORTIVOS Y CASUALIES PARA DAMA, CABALLEROS, NIÑOS Y NIÑAS "}</script>
 
 
